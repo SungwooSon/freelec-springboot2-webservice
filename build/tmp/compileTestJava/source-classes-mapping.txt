@@ -1,0 +1,6 @@
+me/sungwoo/book/springboot/domain/posts/PostsRepositoryTest.java
+ me.sungwoo.book.springboot.domain.posts.PostsRepositoryTest
+me/sungwoo/book/springboot/web/dto/HelloResponseDtoTest.java
+ me.sungwoo.book.springboot.web.dto.HelloResponseDtoTest
+me/sungwoo/book/springboot/web/HelloControllerTest.java
+ me.sungwoo.book.springboot.web.HelloControllerTest
